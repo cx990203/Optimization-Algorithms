@@ -4,7 +4,7 @@
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题。</br>
 理论解释部分中公式是我从自己的报告中截图得到的，因此可能会比较模糊。</br>
 仓库内涉及到的所有算法：</br>
-<a href='#HilbertByCG.py'>HilbertByCG.py</a>
+<a href='## ActiveMethod.py'>ActiveMethod.py</a>
 
 ## ActiveMethod.py
 使用积极集方法求解指定问题。</br>
