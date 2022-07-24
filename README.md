@@ -4,16 +4,16 @@
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题。</br>
 理论解释部分中公式是我从自己的报告中截图得到的，因此可能会比较模糊。</br>
 仓库内涉及到的所有算法：</br>
-<a href='#ActiveMethod'>ActiveMethod.py——积极集方法</a>
-<a href='#FunctionByNewton'>FunctionByNewton.py——牛顿法</a>
-<a href='#Powellsingular_BFGS'>Powellsingular_BFGS.py——BFGS</a>
-<a href='#Rosenbrock_BFGS'>Rosenbrock_BFGS.py——BFGS</a>
-<a href='#Rosenbrock_n_BFGS'>Rosenbrock_n_BFGS.py——BFGS</a>
-<a href='#RosenbrockBySteepest'>RosenbrockBySteepest.py——最速下降法</a>
-<a href='#RosenbrockByNewton'>RosenbrockByNewton.py——牛顿法</a>
-<a href='#BealeBySteepest'>BealeBySteepest.py——最速下降法</a>
-<a href='#BealeByNewton'>BealeByNewton.py——牛顿法</a>
-<a href='#HilbertByCG'>HilbertByCG.py——共轭梯度法</a>
+<a href='#ActiveMethod'>ActiveMethod.py——积极集方法</a></br>
+<a href='#FunctionByNewton'>FunctionByNewton.py——牛顿法</a></br>
+<a href='#Powellsingular_BFGS'>Powellsingular_BFGS.py——BFGS</a></br>
+<a href='#Rosenbrock_BFGS'>Rosenbrock_BFGS.py——BFGS</a></br>
+<a href='#Rosenbrock_n_BFGS'>Rosenbrock_n_BFGS.py——BFGS</a></br>
+<a href='#RosenbrockBySteepest'>RosenbrockBySteepest.py——最速下降法</a></br>
+<a href='#RosenbrockByNewton'>RosenbrockByNewton.py——牛顿法</a></br>
+<a href='#BealeBySteepest'>BealeBySteepest.py——最速下降法</a></br>
+<a href='#BealeByNewton'>BealeByNewton.py——牛顿法</a></br>
+<a href='#HilbertByCG'>HilbertByCG.py——共轭梯度法</a></br>
 
 ## ActiveMethod.py
 <span id='ActiveMethod'></span>
