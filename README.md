@@ -8,7 +8,7 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180651760-5bcc622c-d106-4fe9-a2a7-f367204a9c83.png>
 </div>
-使用牛顿法求解：</br>
+使用牛顿法求解极小值（其中已知全局最小值位于x=(1,1)处）：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180651823-b7dbb040-7681-4bd2-98c4-4a900dd33795.png>
 </div>
