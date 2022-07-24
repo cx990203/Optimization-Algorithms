@@ -84,6 +84,12 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
 </div>
+求解思路：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656117-4311ff56-2e42-425e-aff1-e0e35957e212.png>
+  <img src=https://user-images.githubusercontent.com/77096562/180656140-65e31162-193d-45f9-80f6-0773d0876f89.png>
+</div>
+
 
 <span id='AugmentedLagrangian'></span>
 ## AugmentedLagrangian.py
