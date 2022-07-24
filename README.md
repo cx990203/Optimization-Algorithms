@@ -11,7 +11,7 @@
 </div>
 算法流程图：</br>
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+  <img src=https://user-images.githubusercontent.com/77096562/180652973-48696510-41a4-4a44-8920-4f0a83576ac1.png>
 </div>
 
 ## FunctionByNewton.py
