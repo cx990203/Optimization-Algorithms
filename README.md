@@ -84,6 +84,13 @@ BFGS方法求解the Powellsingular function</br>
   <img src=https://user-images.githubusercontent.com/77096562/180646534-c9fba3fc-14b4-4f89-9266-db07437dc221.png>
 </div>
 
+## Rosenbrock_BFGS.py
+BFGS方法求解the Rosenbrock function</br>
+目标函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
+</div>
+
 ## Rosenbrock_n_BFGS.py
 BFGS方法求解the extended Rosenbrock function</br>
 目标函数表达式：</br>
