@@ -3,6 +3,16 @@
 每一个文件就是一种方法，可以单独执行文件。</br>
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题</br>
 
+## FunctionByNewton.py
+给定一个函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180651760-5bcc622c-d106-4fe9-a2a7-f367204a9c83.png>
+</div>
+使用牛顿法求解：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180651823-b7dbb040-7681-4bd2-98c4-4a900dd33795.png>
+</div>
+
 ## Powellsingular_BFGS.py
 BFGS方法求解the Powellsingular function</br>
 目标函数表达式：</br>
