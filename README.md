@@ -9,6 +9,12 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
 </div>
+理论解释：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654739-2ebc86c4-4d4e-4f21-921b-2c4e7788f034.png>
+  <img src=https://user-images.githubusercontent.com/77096562/180654795-8a543e97-b5b8-488a-8891-308a1d5b5322.png>
+  <img src=https://user-images.githubusercontent.com/77096562/180654826-28f7fd0c-60d8-4b5c-8a17-89f70614af73.png>
+</div>
 算法流程图：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652973-48696510-41a4-4a44-8920-4f0a83576ac1.png>
