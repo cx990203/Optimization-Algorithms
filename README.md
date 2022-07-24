@@ -37,11 +37,11 @@
 
 ## HilbertByCG.py
 共轭梯度法求解线性系统问题：Ax=b。其中A是希尔伯特矩阵，元素表达式为：</br>
-![image](https://user-images.githubusercontent.com/77096562/180645359-b1fa6821-cbba-4784-89b1-4745ccd2b31e.png)。</br>
+![image](https://user-images.githubusercontent.com/77096562/180645359-b1fa6821-cbba-4784-89b1-4745ccd2b31e.png)</br>
 右边为常数向量矩阵：</br>
-![image](https://user-images.githubusercontent.com/77096562/180645395-a2323a8c-97d3-4475-bb80-e5bccf1f0308.png)。</br>
+![image](https://user-images.githubusercontent.com/77096562/180645395-a2323a8c-97d3-4475-bb80-e5bccf1f0308.png)</br>
 算法求解结果如下：</br>
-![image](https://user-images.githubusercontent.com/77096562/180645457-3eb50bb8-f78d-4851-a074-e4c743ffcd1b.png)
+![image](https://user-images.githubusercontent.com/77096562/180645457-3eb50bb8-f78d-4851-a074-e4c743ffcd1b.png)</br>
 维度为5时，其残差与迭代关系折线图：</br>
 ![image](https://user-images.githubusercontent.com/77096562/180645505-cc7077a7-edc0-49b8-88e2-210424bf82c5.png)</br>
 维度为8时，其残差与迭代关系折线图：</br>
