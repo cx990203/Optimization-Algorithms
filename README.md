@@ -3,6 +3,17 @@
 每一个文件就是一种方法，可以单独执行文件。</br>
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题</br>
 
+## ActiveMethod.py
+使用积极集方法求解指定问题。</br>
+其中问题可以描述为为：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+</div>
+算法流程图：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+</div>
+
 ## FunctionByNewton.py
 给定一个函数表达式：</br>
 <div align="center">
