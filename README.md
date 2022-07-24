@@ -98,3 +98,5 @@ BFGS方法求解the extended Rosenbrock function</br>
   <img src=https://user-images.githubusercontent.com/77096562/180646429-bf412a05-f638-41b5-af8d-6e8fa23602be.png>
 </div>
 求解维度：n=6,8,10</br>
+bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=333.999.0.0&vd_source=a28ee82944bc8187d1409ca0e4e99a1c</br>
+
