@@ -5,7 +5,7 @@
 
 ## RosenbrockBySteepest.py
 最速下降法求解Rosenbrock function</br>
-函数原型：</br>
+目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
 </div>
@@ -17,7 +17,7 @@
 
 ## RosenbrockByNewton.py
 牛顿法求解Rosenbrock function</br>
-函数原型：</br>
+目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
 </div>
@@ -29,7 +29,7 @@
 
 ## BealeBySteepest.py
 最速下降法求解the Beale function</br>
-函数原型：</br>
+目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180644956-6d5987c0-3573-4829-8887-528174588c16.png>
 </div>
@@ -41,7 +41,7 @@
 
 ## BealeByNewton.py
 牛顿法求解the Beale function
-函数原型：</br>
+目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180644956-6d5987c0-3573-4829-8887-528174588c16.png>
 </div>
@@ -77,4 +77,10 @@
   <img src=https://user-images.githubusercontent.com/77096562/180645536-e448432f-6e7c-49c2-8def-2fc24ae7ef28.png>
 </div>
 
-
+## Powellsingular_BFGS.py
+BFGS方法求解the extended Rosenbrock function</br>
+目标函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180646429-bf412a05-f638-41b5-af8d-6e8fa23602be.png>
+</div>
+求解维度：n=6,8,10</br>
