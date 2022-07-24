@@ -3,6 +3,29 @@
 每一个文件就是一种方法，可以单独执行文件。</br>
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题</br>
 
+## Powellsingular_BFGS.py
+BFGS方法求解the Powellsingular function</br>
+目标函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180646534-c9fba3fc-14b4-4f89-9266-db07437dc221.png>
+</div>
+
+## Rosenbrock_BFGS.py
+BFGS方法求解the Rosenbrock function</br>
+目标函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
+</div>
+
+## Rosenbrock_n_BFGS.py
+BFGS方法求解the extended Rosenbrock function</br>
+目标函数表达式：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180646429-bf412a05-f638-41b5-af8d-6e8fa23602be.png>
+</div>
+求解维度：n=6,8,10</br>
+bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=333.999.0.0&vd_source=a28ee82944bc8187d1409ca0e4e99a1c</br>
+
 ## RosenbrockBySteepest.py
 最速下降法求解Rosenbrock function</br>
 目标函数表达式：</br>
@@ -76,27 +99,3 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180645536-e448432f-6e7c-49c2-8def-2fc24ae7ef28.png>
 </div>
-
-## Powellsingular_BFGS.py
-BFGS方法求解the Powellsingular function</br>
-目标函数表达式：</br>
-<div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180646534-c9fba3fc-14b4-4f89-9266-db07437dc221.png>
-</div>
-
-## Rosenbrock_BFGS.py
-BFGS方法求解the Rosenbrock function</br>
-目标函数表达式：</br>
-<div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
-</div>
-
-## Rosenbrock_n_BFGS.py
-BFGS方法求解the extended Rosenbrock function</br>
-目标函数表达式：</br>
-<div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180646429-bf412a05-f638-41b5-af8d-6e8fa23602be.png>
-</div>
-求解维度：n=6,8,10</br>
-bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=333.999.0.0&vd_source=a28ee82944bc8187d1409ca0e4e99a1c</br>
-
