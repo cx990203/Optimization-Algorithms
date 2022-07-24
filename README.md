@@ -4,7 +4,7 @@
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题。</br>
 理论解释部分中公式是我从自己的报告中截图得到的，因此可能会比较模糊。</br>
 仓库内涉及到的所有算法：</br>
-<a href='## ActiveMethod.py'>ActiveMethod.py</a>
+<a href='#HilbertByCG'>HilbertByCG.py</a>
 
 ## ActiveMethod.py
 使用积极集方法求解指定问题。</br>
@@ -150,6 +150,7 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
 </div>
 
 ## HilbertByCG.py
+<span id='HilbertByCG'>
 共轭梯度法求解线性系统问题：Ax=b。其中A是希尔伯特矩阵，元素表达式为：</br>
 ![image](https://user-images.githubusercontent.com/77096562/180645359-b1fa6821-cbba-4784-89b1-4745ccd2b31e.png)</br>
 右边为常数向量矩阵：</br>
@@ -174,3 +175,4 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180645536-e448432f-6e7c-49c2-8def-2fc24ae7ef28.png>
 </div>
+</span>
