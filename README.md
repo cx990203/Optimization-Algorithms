@@ -13,6 +13,31 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652973-48696510-41a4-4a44-8920-4f0a83576ac1.png>
 </div>
+迭代路径：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654119-800f6e64-e886-497b-81e9-ec2d256e03d9.png></br>
+  <strong>初值为(1/4,1/3)时的迭代路径</strong>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654351-ea24c564-02a4-4192-a1de-bd50e5da92b4.png></br>
+  <strong>初值为(2,0)时的迭代路径</strong>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654378-2335ac89-5186-40a0-a8e6-eacc9f7df875.png></br>
+  <strong>初值为(1,0.5)时的迭代路径</strong>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654504-ce75e8ff-bcb8-4f35-b207-e72af15acc82.png></br>
+  <strong>初值为(0,0)时的迭代路径</strong>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654528-d0c63407-79cd-4c35-a7cd-c93ba5cd94be.png></br>
+  <strong>初值为(1,0)时的迭代路径</strong>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180654557-b915ece6-b555-4cc6-ae5d-060cf94f2665.png></br>
+  <strong>初值为(0.5,0)时的迭代路径</strong>
+</div>
 
 ## FunctionByNewton.py
 给定一个函数表达式：</br>
