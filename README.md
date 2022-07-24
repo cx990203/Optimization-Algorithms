@@ -4,9 +4,19 @@
 其中部分算法不是很理想，在某一初值条件下求解结果有一定的问题。</br>
 理论解释部分中公式是我从自己的报告中截图得到的，因此可能会比较模糊。</br>
 仓库内涉及到的所有算法：</br>
-<a href='#HilbertByCG'>HilbertByCG.py</a>
+<a href='#ActiveMethod'>ActiveMethod.py——积极集方法</a>
+<a href='#FunctionByNewton'>FunctionByNewton.py——牛顿法</a>
+<a href='#Powellsingular_BFGS'>Powellsingular_BFGS.py——BFGS</a>
+<a href='#Rosenbrock_BFGS'>Rosenbrock_BFGS.py——BFGS</a>
+<a href='#Rosenbrock_n_BFGS'>Rosenbrock_n_BFGS.py——BFGS</a>
+<a href='#RosenbrockBySteepest'>RosenbrockBySteepest.py——最速下降法</a>
+<a href='#RosenbrockByNewton'>RosenbrockByNewton.py——牛顿法</a>
+<a href='#BealeBySteepest'>BealeBySteepest.py——最速下降法</a>
+<a href='#BealeByNewton'>BealeByNewton.py——牛顿法</a>
+<a href='#HilbertByCG'>HilbertByCG.py——共轭梯度法</a>
 
 ## ActiveMethod.py
+<span id='ActiveMethod'></span>
 使用积极集方法求解指定问题。</br>
 其中问题可以描述为为：</br>
 <div align="center">
@@ -49,6 +59,7 @@
 </div>
 
 ## FunctionByNewton.py
+<span id='FunctionByNewton'></span>
 给定一个函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180651760-5bcc622c-d106-4fe9-a2a7-f367204a9c83.png>
@@ -79,6 +90,7 @@
 最后结果可以看出，并不是每一个初值都可以迭代得到全局最优解。</br>经过验证，函数存在两个最优解：x=(1,1)与x=(-1,1)，以及一个极小值点x=(0,0.5)
 
 ## Powellsingular_BFGS.py
+<span id='Powellsingular_BFGS'></span>
 BFGS方法求解the Powellsingular function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -86,6 +98,7 @@ BFGS方法求解the Powellsingular function</br>
 </div>
 
 ## Rosenbrock_BFGS.py
+<span id='Rosenbrock_BFGS'></span>
 BFGS方法求解the Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -93,6 +106,7 @@ BFGS方法求解the Rosenbrock function</br>
 </div>
 
 ## Rosenbrock_n_BFGS.py
+<span id='Rosenbrock_n_BFGS'></span>
 BFGS方法求解the extended Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -102,6 +116,7 @@ BFGS方法求解the extended Rosenbrock function</br>
 bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=333.999.0.0&vd_source=a28ee82944bc8187d1409ca0e4e99a1c</br>
 
 ## RosenbrockBySteepest.py
+<span id='RosenbrockBySteepest'></span>
 最速下降法求解Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -114,6 +129,7 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
 </div>
 
 ## RosenbrockByNewton.py
+<span id='RosenbrockByNewton'></span>
 牛顿法求解Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -126,6 +142,7 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
 </div>
 
 ## BealeBySteepest.py
+<span id='BealeBySteepest'></span>
 最速下降法求解the Beale function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -138,6 +155,7 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
 </div>
 
 ## BealeByNewton.py
+<span id='BealeByNewton'></span>
 牛顿法求解the Beale function
 目标函数表达式：</br>
 <div align="center">
