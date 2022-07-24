@@ -76,6 +76,10 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
 </div>
+求解思路：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656003-e2879ef7-3da7-493e-ab21-da81a74dfb2f.png>
+</div>
 
 <span id='AugmentedLagrangian'></span>
 ## AugmentedLagrangian.py
