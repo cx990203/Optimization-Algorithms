@@ -12,6 +12,12 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180651823-b7dbb040-7681-4bd2-98c4-4a900dd33795.png>
 </div>
+理论证明：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652048-2e1f159c-d56c-4854-8411-cd457050b913.png>
+</div>
+由于没有给定初值，因此程序当中随机在[-10, 10]的范围内生成一个随机初值，并带入求解。</br>
+
 
 ## Powellsingular_BFGS.py
 BFGS方法求解the Powellsingular function</br>
