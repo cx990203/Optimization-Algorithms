@@ -89,7 +89,10 @@
   <img src=https://user-images.githubusercontent.com/77096562/180656117-4311ff56-2e42-425e-aff1-e0e35957e212.png>
   <img src=https://user-images.githubusercontent.com/77096562/180656140-65e31162-193d-45f9-80f6-0773d0876f89.png>
 </div>
-
+迭代路径：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656240-1ecec615-bcfa-48b9-8ca1-91ffa9ebed17.png>
+</div>
 
 <span id='AugmentedLagrangian'></span>
 ## AugmentedLagrangian.py
@@ -97,6 +100,14 @@
 其中问题可以描述为为：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+</div>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656266-73603440-65ee-4ad3-9281-7c9c0411eecc.png>
+  <img src=https://user-images.githubusercontent.com/77096562/180656274-00bb18f2-b556-4af8-a957-eb3402f8ac30.png>
+</div>
+迭代路径：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656301-d23c5463-4104-4430-a34a-011f86e9e987.png>
 </div>
 
 <span id='FunctionByNewton'></span>
