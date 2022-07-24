@@ -5,6 +5,9 @@
 理论解释部分中公式是我从自己的报告中截图得到的，因此可能会比较模糊。</br>
 仓库内涉及到的所有算法：</br>
 <a href='#ActiveMethod'>ActiveMethod.py——积极集方法</a></br>
+<a href='#QuadraticPenalty'>QuadraticPenalty.py——二次罚函数方法</a></br>
+<a href='#ClassicalL1Penalty'>ClassicalL1Penalty.py——经典的l1精确罚函数方法</a></br>
+<a href='#AugmentedLagrangian'>AugmentedLagrangian.py——增广拉格朗日乘子法</a></br>
 <a href='#FunctionByNewton'>FunctionByNewton.py——牛顿法</a></br>
 <a href='#Powellsingular_BFGS'>Powellsingular_BFGS.py——BFGS</a></br>
 <a href='#Rosenbrock_BFGS'>Rosenbrock_BFGS.py——BFGS</a></br>
@@ -56,6 +59,30 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180654557-b915ece6-b555-4cc6-ae5d-060cf94f2665.png></br>
   <strong>初值为(0.5,0)时的迭代路径</strong>
+</div>
+
+<span id='QuadraticPenalty'></span>
+## QuadraticPenalty.py
+二次罚函数方法求解相关问题</br>
+其中问题可以描述为为：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+</div>
+
+<span id='ClassicalL1Penalty'></span>
+## ClassicalL1Penalty.py
+经典的l1精确罚函数方法求解相关问题</br>
+其中问题可以描述为为：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
+</div>
+
+<span id='AugmentedLagrangian'></span>
+## AugmentedLagrangian.py
+增广拉格朗日方法求解相关问题</br>
+其中问题可以描述为为：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
 </div>
 
 <span id='FunctionByNewton'></span>
