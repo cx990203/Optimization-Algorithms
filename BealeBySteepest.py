@@ -86,7 +86,7 @@ def steepest(x0):
         x += alpha * p  # 新的迭代点
         W[:, i + 1] = x     # 记录当前位置
         i += 1      # 迭代次数计算
-        print(f'{i} -- grad:{np.linalg.norm(grad(x))} -- alpha:{alpha} -- x:{x}')
+        # print(f'{i} -- grad:{np.linalg.norm(grad(x))} -- alpha:{alpha} -- x:{x}')
     print(f"迭代次数为：{i}")
     print(f"近似解为：{x}")
     print(f"函数值为：{function(x)}")
@@ -99,7 +99,7 @@ if __name__ == "__main__":
     x0 = np.array([-1.2, 1], dtype=np.float)
     W = steepest(x0)
 
-    X1 = np.arange(-2, 3.2, 0.05)
+    X1 = np.arange(-5, 3.2, 0.05)
     X2 = np.arange(-1, 2.5, 0.05)
     [x1, x2] = np.meshgrid(X1, X2)
     f = (1.5 - x1 + x1 * x2) ** 2 + (2.25 - x1 + x1 * x2 ** 2) ** 2 + (2.625 - x1 + x1 * x2 ** 3) ** 2

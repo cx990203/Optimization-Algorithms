@@ -4,6 +4,9 @@
 import numpy as np
 
 # Rosenbrock函数
+from matplotlib import pyplot as plt
+
+
 def rosenbrock(x):
     return 100 * (x[1] - x[0] ** 2) ** 2 + (1 - x[0]) ** 2
 
@@ -73,7 +76,7 @@ def newton(x0):
         # alpha = wolfe(rosenbrock, grad, p, x, 1, 0.1, 0.9)  # wolfe条件计算步长
         # x += alpha * p  # 计算新的迭代点
         x += p  # 计算新的迭代点
-        W[:, i] = x  # 记录当前位置
+        W[:, i + 1] = x  # 记录当前位置
         i += 1  # 计算迭代次数
     print(f"迭代次数为：{i}")
     print(f"近似解为：{x}")
@@ -86,3 +89,15 @@ def newton(x0):
 if __name__ == "__main__":
     x0 = np.array([-1.2, 1], dtype=np.float)
     W = newton(x0)
+
+    X1 = np.arange(-1.5, 3, 0.05)
+    X2 = np.arange(-4, 2, 0.05)
+    [x1, x2] = np.meshgrid(X1, X2)
+    f = 100 * (x2 - x1 ** 2) ** 2 + (1 - x1) ** 2
+    plt.contour(x1, x2, f, 1000)
+    plt.scatter(W[0, 0], W[1, 0], c='b')
+    plt.scatter(W[0, -1], W[1, -1], c='g')
+    plt.plot(W[0, :], W[1, :], 'r-')
+    plt.text(W[0, 0] + 0.1, W[1, 0], '(%.2f, %.2f)' % (W[0, 0], W[1, 0]))
+    plt.text(W[0, -1] + 0.1, W[1, -1], '(%.2f, %.2f)' % (W[0, -1], W[1, -1]))
+    plt.show()
