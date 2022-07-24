@@ -68,6 +68,14 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
 </div>
+求解思路：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656003-e2879ef7-3da7-493e-ab21-da81a74dfb2f.png>
+</div>
+迭代路径：</br>
+<div align="center">
+  <img src=https://user-images.githubusercontent.com/77096562/180656063-5c61e03a-9204-4a35-8bb2-40643cdb8911.png>
+</div>
 
 <span id='ClassicalL1Penalty'></span>
 ## ClassicalL1Penalty.py
@@ -75,10 +83,6 @@
 其中问题可以描述为为：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180652899-cbda333e-c9ad-4443-ac4e-524b08fd0f93.png>
-</div>
-求解思路：</br>
-<div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180656003-e2879ef7-3da7-493e-ab21-da81a74dfb2f.png>
 </div>
 
 <span id='AugmentedLagrangian'></span>
