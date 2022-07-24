@@ -15,8 +15,8 @@
 <a href='#BealeByNewton'>BealeByNewton.py——牛顿法</a></br>
 <a href='#HilbertByCG'>HilbertByCG.py——共轭梯度法</a></br>
 
-## ActiveMethod.py
 <span id='ActiveMethod'></span>
+## ActiveMethod.py
 使用积极集方法求解指定问题。</br>
 其中问题可以描述为为：</br>
 <div align="center">
@@ -58,8 +58,8 @@
   <strong>初值为(0.5,0)时的迭代路径</strong>
 </div>
 
-## FunctionByNewton.py
 <span id='FunctionByNewton'></span>
+## FunctionByNewton.py
 给定一个函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180651760-5bcc622c-d106-4fe9-a2a7-f367204a9c83.png>
@@ -89,24 +89,24 @@
 
 最后结果可以看出，并不是每一个初值都可以迭代得到全局最优解。</br>经过验证，函数存在两个最优解：x=(1,1)与x=(-1,1)，以及一个极小值点x=(0,0.5)
 
-## Powellsingular_BFGS.py
 <span id='Powellsingular_BFGS'></span>
+## Powellsingular_BFGS.py
 BFGS方法求解the Powellsingular function</br>
 目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180646534-c9fba3fc-14b4-4f89-9266-db07437dc221.png>
 </div>
 
-## Rosenbrock_BFGS.py
 <span id='Rosenbrock_BFGS'></span>
+## Rosenbrock_BFGS.py
 BFGS方法求解the Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
   <img src=https://user-images.githubusercontent.com/77096562/180644370-b1ea99b9-025a-477b-bc09-e21e538cc63f.png>
 </div>
 
-## Rosenbrock_n_BFGS.py
 <span id='Rosenbrock_n_BFGS'></span>
+## Rosenbrock_n_BFGS.py
 BFGS方法求解the extended Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -115,8 +115,8 @@ BFGS方法求解the extended Rosenbrock function</br>
 求解维度：n=6,8,10</br>
 bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=333.999.0.0&vd_source=a28ee82944bc8187d1409ca0e4e99a1c</br>
 
-## RosenbrockBySteepest.py
 <span id='RosenbrockBySteepest'></span>
+## RosenbrockBySteepest.py
 最速下降法求解Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -128,8 +128,8 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
   <img src=https://user-images.githubusercontent.com/77096562/180644870-e3b5c187-a37a-4d94-b463-394ac8a5ffb7.png>
 </div>
 
-## RosenbrockByNewton.py
 <span id='RosenbrockByNewton'></span>
+## RosenbrockByNewton.py
 牛顿法求解Rosenbrock function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -141,8 +141,8 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
   <img src=https://user-images.githubusercontent.com/77096562/180644921-e48eb678-8214-49d3-a5ff-7c05523c05dc.png>
 </div>
 
-## BealeBySteepest.py
 <span id='BealeBySteepest'></span>
+## BealeBySteepest.py
 最速下降法求解the Beale function</br>
 目标函数表达式：</br>
 <div align="center">
@@ -154,8 +154,8 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
   <img src=https://user-images.githubusercontent.com/77096562/180645042-1ab651a2-3a8f-4a31-8e75-8829bb235b6a.png>
 </div>
 
-## BealeByNewton.py
 <span id='BealeByNewton'></span>
+## BealeByNewton.py
 牛顿法求解the Beale function
 目标函数表达式：</br>
 <div align="center">
@@ -167,8 +167,8 @@ bilibili教程链接：https://www.bilibili.com/video/BV1R34y187zE?spm_id_from=3
   <img src=https://user-images.githubusercontent.com/77096562/180645126-d25f0614-e0ad-4332-bb19-1a9e8a52d89f.png>
 </div>
 
-## HilbertByCG.py
 <span id='HilbertByCG'></span>
+## HilbertByCG.py
 共轭梯度法求解线性系统问题：Ax=b。其中A是希尔伯特矩阵，元素表达式为：</br>
 ![image](https://user-images.githubusercontent.com/77096562/180645359-b1fa6821-cbba-4784-89b1-4745ccd2b31e.png)</br>
 右边为常数向量矩阵：</br>
