@@ -91,7 +91,7 @@
 </div>
 迭代路径：</br>
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/77096562/180656240-1ecec615-bcfa-48b9-8ca1-91ffa9ebed17.png>
+  <img src=https://user-images.githubusercontent.com/77096562/181872737-ba609ecf-3495-4d80-aa4c-fa5bb6e84064.png>
 </div>
 
 <span id='AugmentedLagrangian'></span>
